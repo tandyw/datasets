@@ -28,7 +28,7 @@ Simulated and biological datasets from publications from Tandy Warnow's lab, mos
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">ASTRAL: Genome-Scale Coalescent-Based Species Tree Estimation, Bioinformatics (2014)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c22 c35">[10.1093/bioinformatics/btu462](https://www.google.com/url?q=http://bioinformatics.oxfordjournals.org/cgi/content/long/30/17/i541&sa=D&ust=1508540976065000&usg=AFQjCNHGymI3SLe4jIBTh2Od4lIk1oiJ4w)</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -48,7 +48,7 @@ Simulated and biological datasets from publications from Tandy Warnow's lab, mos
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">ASTRAL-II: coalescent-based species tree estimation with many hundreds of taxa and thousands of genes, Bioinformatics (2015)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">10.1093/bioinformatics/btv234</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -66,7 +66,7 @@ Simulated and biological datasets from publications from Tandy Warnow's lab, mos
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">Statistical binning enables an accurate coalescent-based estimation of the avian tree, Science (2014)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c22 c29 c12">10.1126/science.1250463</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -84,7 +84,7 @@ Simulated and biological datasets from publications from Tandy Warnow's lab, mos
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">Response to Comment on ‘Statistical Binning Enables an Accurate Coalescent-Based Estimation of the Avian Tree.’ Science (2015)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c19 c20 c12">10.1126/science.aaa7719</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -102,7 +102,7 @@ Simulated and biological datasets from publications from Tandy Warnow's lab, mos
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">Weighted Statistical Binning: Enabling Statistically Consistent Genome-Scale Phylogenetic Analyses, PLOS One (2015)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">10.1371/journal.pone.0129183</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -121,7 +121,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c22">Naive binning improves phylogenomic analyses, Bioinformatics (2013)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c22">10.1093/bioinformatics/btt394</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -139,7 +139,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">BBCA: Improving the scalability of *BEAST using random binning, BMC Genomics (2014)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c19 c9">[10.1186/1471-2164-15-S6-S11](https://www.google.com/url?q=http://www.biomedcentral.com/1471-2164/15/S6/S11&sa=D&ust=1508540976074000&usg=AFQjCNFWi90IuuWHmKB74vdbEpgyI6bGcQ)</span>
 <span class="c3"></span>
 </td>
@@ -158,7 +158,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">PASTA: Ultra-Large Multiple Sequence Alignment for Nucleotide and Amino-Acid Sequences, Journal of Computational Biology (2014)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">10.1089/cmb.2014.0156</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -176,7 +176,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">SEPP: SATé-Enabled Phylogenetic Placement, Pacific Symposium on Biocomputing (2012)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c9">10.1142/9789814366496_0024</span><span class="c3"> </span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -195,7 +195,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">Ultra-large alignments using phylogeny aware profiles, Genome Biology (2015)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">10.1186/s13059-015-0688-z</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -213,7 +213,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">TIPP:Taxonomic Identification and Phylogenetic Profiling, Bioinformatics (2014)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">10.1093/bioinformatics/btu721</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -231,7 +231,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">FastSP: Linear Time Calculation of Alignment Accuracy, Bioinformatics (2011)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c9 c19">[10.1093/bioinformatics/btr553](https://www.google.com/url?q=http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btr553&sa=D&ust=1508540976082000&usg=AFQjCNEplLhSI3UYCNRVzvu1Beyb5KTaKg)</span>
 <span class="c3"></span>
 </td>
@@ -250,7 +250,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">Rapid and Accurate Large-Scale Coestimation of Sequence Alignments and Phylogenetic Trees, Science (2009)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">10.1126/science.1171243</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -269,7 +269,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">SuperFine: fast and accurate supertree estimation.</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">10.1093/sysbio/syr092</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -287,7 +287,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">DACTAL: divide-and-conquer trees (almost) without alignments, Bioinformatics (2012)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">10.1093/bioinformatics/bts218</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -305,7 +305,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">A simulation study comparing supertree and combined analysis methods using SMIDGen, Algorithms for Molecular Biology (2010)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3">https://doi.org/10.1186/1748-7188-5-8</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -323,7 +323,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">Treelength Optimization for Phylogeny Estimation, PLOS One (2012)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c22 c12">doi:10.1371/journal.pone.0033104</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -346,7 +346,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c3">RAxML and FastTree: Comparing Two Methods for Large-Scale Maximum Likelihood Phylogeny Estimation, PLOS One (2012)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c3 c12">10.1371/journal.pone.0027731</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -364,7 +364,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c22">Fast and accurate methods for phylogenomic analyses, BMC Bioinformatics (2011)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c22 c12 c26">[10.1093/bioinformatics/btt394](https://www.google.com/url?q=https://doi.org/10.1093/bioinformatics/btt394&sa=D&ust=1508540976096000&usg=AFQjCNHYhJ3bhNh67BRakSrLs808y4yQrg)</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
@@ -382,7 +382,7 @@ Naive binning</span>
 <td class="c1" colspan="1" rowspan="1">
 <span class="c22">Disk covering methods improve phylogenomc analyses, BMC Genomics (2014)</span>
 </td>
-<td class="c1" colspan="1" rowspan="1">
+<td class="c5" colspan="1" rowspan="1">
 <span class="c22 c12 c27">[10.1186/1471-2164-15-S6-S7](https://www.google.com/url?q=https://doi.org/10.1186/1471-2164-15-S6-S7&sa=D&ust=1508540976098000&usg=AFQjCNF7hKuhu38RUNj4DrJRpoQrSYTdfA)</span>
 </td>
 <td class="c6" colspan="1" rowspan="1">
