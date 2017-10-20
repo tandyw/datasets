@@ -127,7 +127,7 @@ Simulated and biological datasets from publications from Tandy Warnow's lab, mos
 
 <td class="c1" colspan="1" rowspan="1">
 
-<span class="c22 c29 c12">10.1126/science.1250463</span>
+<span class="c22 c29">10.1126/science.1250463</span>
 
 </td>
 
@@ -161,7 +161,7 @@ Simulated and biological datasets from publications from Tandy Warnow's lab, mos
 
 <td class="c1" colspan="1" rowspan="1">
 
-<span class="c19 c20 c12">10.1126/science.aaa7719</span>
+<span class="c19 c20">10.1126/science.aaa7719</span>
 
 </td>
 
@@ -612,7 +612,7 @@ Naive binning</span>
 
 <td class="c1" colspan="1" rowspan="1">
 
-<span class="c22 c12">[10.1371/journal.pone.0033104](doi.org/10.1371/journal.pone.0033104)</span>
+<span class="c22">[10.1371/journal.pone.0033104](doi.org/10.1371/journal.pone.0033104)</span>
 
 </td>
 
@@ -656,7 +656,7 @@ Naive binning</span>
 
 <td class="c1" colspan="1" rowspan="1">
 
-<span class="c3 c12">10.1371/journal.pone.0027731</span>
+<span class="c3">10.1371/journal.pone.0027731</span>
 
 </td>
 
@@ -690,7 +690,7 @@ Naive binning</span>
 
 <td class="c1" colspan="1" rowspan="1">
 
-<span class="c22 c12 c26">[10.1093/bioinformatics/btt394](https://www.google.com/url?q=https://doi.org/10.1093/bioinformatics/btt394&sa=D&ust=1508540976096000&usg=AFQjCNHYhJ3bhNh67BRakSrLs808y4yQrg)</span>
+<span class="c22 c26">[10.1093/bioinformatics/btt394](https://www.google.com/url?q=https://doi.org/10.1093/bioinformatics/btt394&sa=D&ust=1508540976096000&usg=AFQjCNHYhJ3bhNh67BRakSrLs808y4yQrg)</span>
 
 </td>
 
@@ -725,15 +725,15 @@ Naive binning</span>
 
 <td class="c1" colspan="1" rowspan="1">
 
-<span class="c22 c12 c27">[10.1186/1471-2164-15-S6-S7](https://www.google.com/url?q=https://doi.org/10.1186/1471-2164-15-S6-S7&sa=D&ust=1508540976098000&usg=AFQjCNF7hKuhu38RUNj4DrJRpoQrSYTdfA)</span>
+<span class="c22 c27">[10.1186/1471-2164-15-S6-S7](https://www.google.com/url?q=https://doi.org/10.1186/1471-2164-15-S6-S7&sa=D&ust=1508540976098000&usg=AFQjCNF7hKuhu38RUNj4DrJRpoQrSYTdfA)</span>
 
 </td>
 
 <td class="c6" colspan="1" rowspan="1">
 
-<span class="c9 c12">[http://www.cs.utexas.edu/users/phylo/software/dcm-protocol/](https://www.google.com/url?q=http://www.cs.utexas.edu/users/phylo/software/dcm-protocol/&sa=D&ust=1508540976099000&usg=AFQjCNEDtribVivnacPPL2uPaevYcvi5hA)</span><span class="c22 c12"> </span><span class="c3 c12">(scripts)</span>
+<span class="c9">[http://www.cs.utexas.edu/users/phylo/software/dcm-protocol/](https://www.google.com/url?q=http://www.cs.utexas.edu/users/phylo/software/dcm-protocol/&sa=D&ust=1508540976099000&usg=AFQjCNEDtribVivnacPPL2uPaevYcvi5hA)</span><span class="c22"> </span><span class="c3">(scripts)</span>
 
-<span class="c3 c12"></span>
+<span class="c3"></span>
 
 <span class="c9">[http://www.cs.utexas.edu/~phylo/datasets/astral/](https://www.google.com/url?q=http://www.cs.utexas.edu/~phylo/datasets/astral/&sa=D&ust=1508540976099000&usg=AFQjCNFOBb8qwYg7WCjdyV5RLhFCINB1tQ)</span><span class="c22"> </span><span class="c22">(datasets)</span>
 
@@ -746,7 +746,7 @@ Naive binning</span>
 
 <span class="c3"></span>
 
-<span class="c9 c12">[https://sites.google.com/eng.ucsd.edu/datasets/astral](https://www.google.com/url?q=https://sites.google.com/eng.ucsd.edu/datasets/astral&sa=D&ust=1508540976100000&usg=AFQjCNET0QFRWZ8Dgrs1Pzy_VgR6yR8Zgw)</span><span class="c9 c12"> </span><span class="c3"> (datasets)</span>
+<span class="c9">[https://sites.google.com/eng.ucsd.edu/datasets/astral](https://www.google.com/url?q=https://sites.google.com/eng.ucsd.edu/datasets/astral&sa=D&ust=1508540976100000&usg=AFQjCNET0QFRWZ8Dgrs1Pzy_VgR6yR8Zgw)</span><span class="c9"> </span><span class="c3"> (datasets)</span>
 
 </td>
 
