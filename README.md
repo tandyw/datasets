@@ -334,7 +334,7 @@ Naive binning</span>
 
 <td class="c5" colspan="1" rowspan="1">
 
-<span class="c9">[http://www.ncbi.nlm.nih.gov/pubmed/22174280](https://www.google.com/url?q=http://www.ncbi.nlm.nih.gov/pubmed/22174280&sa=D&ust=1508540976077000&usg=AFQjCNEoD9I7aeUshg0Ov08S87f91De81g)</span><span class="c3"> </span>
+<span class="c9">10.1142/9789814366496_0024</span><span class="c3"> </span>
 
 </td>
 
