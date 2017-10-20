@@ -19,7 +19,7 @@ Simulated and biological datasets from publications from Tandy Warnow's lab, mos
 
 </td>
 
-<td class="c5" colspan="1" rowspan="1">
+<td class="c1" colspan="1" rowspan="1">
 
 <span class="c0">Paper DOI</span>
 
