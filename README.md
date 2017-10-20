@@ -612,7 +612,7 @@ Naive binning</span>
 
 <td class="c1" colspan="1" rowspan="1">
 
-<span class="c22 c12">doi:10.1371/journal.pone.0033104</span>
+<span class="c22 c12">[10.1371/journal.pone.0033104](doi.org/10.1371/journal.pone.0033104)</span>
 
 </td>
 
