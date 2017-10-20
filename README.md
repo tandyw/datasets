@@ -712,9 +712,8 @@ Naive binning</span>
 
 <td class="c16" colspan="1" rowspan="1">
 
-# <span class="c22 c29">Bayzid, Hunt, and Warnow</span>
+<span class="c3">Bayzid, Hunt, and Warnow</span>
 
-<span class="c3"></span>
 
 </td>
 
