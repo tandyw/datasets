@@ -1,3 +1,5 @@
+## <span class="c17">Datasets on utexas.edu</span>
+
 <a id="t.fe93747474a040915759d1654832f3553f51dd37"></a><a id="t.0"></a>
 
 | 
@@ -206,7 +208,7 @@ Naive binning</span>
 
  | 
 
-<span class="c9">10.1142/9789814366496_0024 </span><span class="c3"> </span>
+<span class="c9">[http://www.ncbi.nlm.nih.gov/pubmed/22174280](https://www.google.com/url?q=http://www.ncbi.nlm.nih.gov/pubmed/22174280&sa=D&ust=1508540976077000&usg=AFQjCNEoD9I7aeUshg0Ov08S87f91De81g)</span><span class="c3"> </span>
 
  | 
 
@@ -476,3 +478,101 @@ Naive binning</span>
 
  |
 
+<span class="c11"></span>
+
+## <span class="c17">On other archives</span>
+
+<span class="c11">The following papers did not have any data at utexas.edu</span>
+
+<span class="c11"></span>
+
+<a id="t.f19b121c09e4d896b900cbd594923014505a62b9"></a><a id="t.1"></a>
+
+| 
+
+<span class="c19 c20">Liu et al. (POY*)</span>
+
+ | 
+
+# <span class="c22">Barking up the wrong treelength: the impact of gap penalty on alignment and tree accuracy, TCBB (2009)</span>
+
+ | 
+
+<span class="c22 c12">doi:10.1109/TCBB.2008.63</span>
+
+ | 
+
+<span class="c22 c12">Data not made available, but paper provides details of how to generate the simulated data and TreeBase accession numbers</span>
+
+ | 
+
+<span>n.a.</span>
+
+ |
+| 
+
+# <span class="c19 c20">Mirarab, Bayzid, and Warnow</span>
+
+ | 
+
+# <span class="c22">Evaluating summary methods for multi-locus species tree estimation in the presence of incomplete lineage sorting, Systematic Biology (2014)</span>
+
+ | 
+
+<span class="c3 c12">10.1093/sysbio/syu063</span>
+
+ | 
+
+<span class="c9 c12">[http://datadryad.org/resource/doi:10.5061/dryad.310q3](https://www.google.com/url?q=http://datadryad.org/resource/doi:10.5061/dryad.310q3&sa=D&ust=1508540976103000&usg=AFQjCNFOr3Pv3bW4O5n9qCOR_ETOyjE9ZQ)</span><span class="c3 c12"> </span>
+
+ | 
+
+<span class="c11"></span>
+
+ |
+| 
+
+<span class="c3">Barbancon et al., Simulated linguistic datasets</span>
+
+ | 
+
+<span class="c22">An experimental study comparing linguistic phylogenetic reconstruction methods, Diachronica (2013)</span>
+
+ | 
+
+<span class="c22">doi:10.1075/dia.30.2.01bar</span>
+
+ | 
+
+<span class="c3 c12">Data not made available, but paper provides details of how to generate the simulated data. (Contact Warnow if interested in obtaining the data.)</span>
+
+ | 
+
+<span class="c11"></span>
+
+ |
+| 
+
+<span class="c3">Liu et al., SATe-II</span>
+
+ | 
+
+<span class="c3">SATe-II: Very Fast and Accurate Simultaneous Estimation of Multiple Sequence Alignments and Phylogenetic Trees, Systematic Biology (2012)</span>
+
+ | 
+
+<span class="c3">10.1093/sysbio/syr095</span>
+
+ | 
+
+<span class="c22">16S.B.ALL and 16S.T:</span> <span class="c9">[http://api.datadryad.org/resource/doi:10.5061/dryad.n9r3h;jsessionid=7744D50A080E12DB90E261C0D7BBAE4A](https://www.google.com/url?q=http://api.datadryad.org/resource/doi:10.5061/dryad.n9r3h;jsessionid%3D7744D50A080E12DB90E261C0D7BBAE4A&sa=D&ust=1508540976106000&usg=AFQjCNGYZWzzaoKM6D9ojsYOGzbDK8iFBQ)</span>
+
+ | 
+
+<span class="c3">In addition to dryad:</span>
+
+<span class="c22">16S.B.ALL and 16S.T:</span> <span class="c9">[https://sites.google.com/eng.ucsd.edu/datasets/16s23s](https://www.google.com/url?q=https://sites.google.com/eng.ucsd.edu/datasets/16s23s&sa=D&ust=1508540976106000&usg=AFQjCNGpG88Vta0DW7e0RXP_JEgQdaNARw)</span><span class="c3"> </span>
+
+ |
+
+<span class="c11"></span>
