@@ -3,7 +3,7 @@
 
 **Note: the websites previously hosed at *http://www.cs.utexas.edu/~phylo* now redirect here**. 
 
-The utexas dataset is not available anymore, but we have made an effort to keep all the datasts previously available on utexas. We now host these datasets in a different place. The following link includes (among other things) most of the simulated and biological datasets that Tandy Warnow's lab had previously provided through http://www.cs.utexas.edu/~phylo.
+The utexas website is not available anymore, but we have made an effort to keep all the datasts previously available on utexas. We now host these datasets in a different place. The following link includes (among other things) most of the simulated and biological datasets that Tandy Warnow's lab had previously provided through http://www.cs.utexas.edu/~phylo.
 
 https://sites.google.com/eng.ucsd.edu/datasets/
 
